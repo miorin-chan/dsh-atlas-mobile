@@ -1,0 +1,8 @@
+name: dsh-mobile-atlas
+version: 0.1.0
+private: true
+engines:
+  dsh: '>=0.2.2-rc.3'
+plugins:
+  - dsh-swipe-back
+  - dsh-ios-top-clearance
