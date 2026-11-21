@@ -1,5 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
-  <rect x="10.5" y="6.5" width="15" height="23" rx="3.5" stroke="#596BD0" stroke-width="2"/>
-  <path d="M14.5 11.5h7" stroke="#799AE9" stroke-width="2" stroke-linecap="round"/>
-  <path d="m17 16-3 3 3 3m-3-3h7" stroke="#596BD0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="mobile-atlas-body" x1="5" y1="4" x2="25" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8FA4F6"/>
+      <stop offset="1" stop-color="#4E56D4"/>
+    </linearGradient>
+    <linearGradient id="mobile-atlas-compass" x1="33" y1="19.5" x2="20.5" y2="33.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8FD3FF"/>
+      <stop offset="1" stop-color="#4B62E1"/>
+    </linearGradient>
+    <mask id="mobile-atlas-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="36" height="36">
+      <rect width="36" height="36" fill="white"/>
+      <circle cx="26.5" cy="26.5" r="9.25" fill="black"/>
+    </mask>
+  </defs>
+  <g fill="url(#mobile-atlas-body)" mask="url(#mobile-atlas-cut)">
+    <rect x="7.625" y="4.125" width="14.75" height="26.75" rx="3.4" fill-opacity=".16" stroke="url(#mobile-atlas-body)" stroke-width="2.25"/>
+    <rect x="12.5" y="7" width="5" height="1.8" rx=".9"/>
+  </g>
+  <circle cx="26.5" cy="26.5" r="7.5" fill="url(#mobile-atlas-compass)"/>
+  <circle cx="26.5" cy="26.5" r="5.6" stroke="#FFFFFF" stroke-opacity="0.22"/>
+  <g transform="rotate(45 26.5 26.5)">
+    <path d="M26.5 20.9l1.75 4.2-1.75 1.4-1.75-1.4Z" fill="#FFFFFF"/>
+    <path d="M26.5 32.1l1.75-4.2-1.75-1.4-1.75 1.4Z" fill="#FFFFFF" fill-opacity="0.45"/>
+  </g>
+  <circle cx="26.5" cy="26.5" r="1.1" fill="#FFFFFF"/>
 </svg>
