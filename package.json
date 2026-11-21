@@ -4,7 +4,7 @@
   "private": true,
   "license": "MIT",
   "type": "module",
-  "description": "Adds left-edge swipe navigation to mobile Web and top clearance to the iOS Home Screen app.",
+  "description": "A modular program for differentiable, continuous improvement of the mobile Web experience.",
   "keywords": [
     "deepseek-harness",
     "dsh",

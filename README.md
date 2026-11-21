@@ -1,9 +1,11 @@
-# Mobile Atlas
+# dsh-mobile-atlas
 
 [简体中文](README.zh.md)
 
-Install two mobile Web enhancements on one Plugins card.
-Each row has its own switch.
+**Mobile Modular Improvement Plan.**
+
+A modular program for differentiable, continuous improvement of the mobile Web experience.
+One card, one row per enhancement, with an independent switch for each row.
 
 - [Left-edge swipe](../dsh-swipe-back/README.en.md) uses a rightward swipe from the left edge at phone widths.
   In a Home Screen app or a tab without browser history, it dismisses the open surface or opens the session drawer.
