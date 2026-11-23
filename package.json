@@ -1,5 +1,5 @@
 {
-  "name": "dsh-atlas-mobile",
+  "name": "@miorin/dsh-atlas-mobile",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
@@ -41,13 +41,13 @@
     },
     "aggregate": {
       "plugins": [
-        "dsh-swipe-back",
-        "dsh-ios-top-clearance"
+        "@miorin/dsh-swipe-back",
+        "@miorin/dsh-ios-top-clearance"
       ]
     }
   },
   "dependencies": {
-    "dsh-swipe-back": "link:../dsh-swipe-back",
-    "dsh-ios-top-clearance": "link:../dsh-ios-top-clearance"
+    "@miorin/dsh-swipe-back": "link:../dsh-swipe-back",
+    "@miorin/dsh-ios-top-clearance": "link:../dsh-ios-top-clearance"
   }
 }

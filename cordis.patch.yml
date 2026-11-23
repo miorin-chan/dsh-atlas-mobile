@@ -2,9 +2,9 @@
 # Run `node tools/dsh-aggregate/cli.mjs generate <dir>` after editing the manifest.
 
 - insert:
-    # dsh-swipe-back
+    # @miorin/dsh-swipe-back
     - id: dsh-swipe-back
-      name: 'dsh-swipe-back'
-    # dsh-ios-top-clearance
+      name: '@miorin/dsh-swipe-back'
+    # @miorin/dsh-ios-top-clearance
     - id: dsh-ios-top-clearance
-      name: 'dsh-ios-top-clearance'
+      name: '@miorin/dsh-ios-top-clearance'

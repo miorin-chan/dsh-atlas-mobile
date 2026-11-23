@@ -1,8 +1,10 @@
-name: dsh-atlas-mobile
+name: '@miorin/dsh-atlas-mobile'
 version: 0.1.0
 private: true
 engines:
   dsh: '>=0.2.2-rc.3'
 plugins:
-  - dsh-swipe-back
-  - dsh-ios-top-clearance
+  - name: '@miorin/dsh-swipe-back'
+    spec: link:../dsh-swipe-back
+  - name: '@miorin/dsh-ios-top-clearance'
+    spec: link:../dsh-ios-top-clearance

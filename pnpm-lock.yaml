@@ -8,9 +8,9 @@ importers:
 
   .:
     dependencies:
-      dsh-ios-top-clearance:
+      '@miorin/dsh-ios-top-clearance':
         specifier: link:../dsh-ios-top-clearance
         version: link:../dsh-ios-top-clearance
-      dsh-swipe-back:
+      '@miorin/dsh-swipe-back':
         specifier: link:../dsh-swipe-back
         version: link:../dsh-swipe-back
