@@ -1,4 +1,4 @@
-# dsh-mobile-atlas
+# dsh-atlas-mobile
 
 [简体中文](README.zh.md)
 
