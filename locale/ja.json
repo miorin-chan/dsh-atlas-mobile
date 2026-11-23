@@ -1,6 +1,7 @@
 {
   "meta": {
     "title": "モバイルのモジュール型改善計画",
-    "description": "左端からのスワイプ操作と、iOS ホーム画面アプリの上部余白。"
+    "description": "左端からのスワイプ操作と、iOS ホーム画面アプリの上部余白。",
+    "detail": "README.ja.md"
   }
 }

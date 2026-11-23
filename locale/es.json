@@ -1,6 +1,7 @@
 {
   "meta": {
     "title": "Plan de mejora modular para móviles",
-    "description": "Navegación desde el borde izquierdo y margen superior en la app de inicio de iOS."
+    "description": "Navegación desde el borde izquierdo y margen superior en la app de inicio de iOS.",
+    "detail": "README.es.md"
   }
 }

@@ -1,6 +1,7 @@
 {
   "meta": {
     "title": "Mobile Modular Improvement Plan",
-    "description": "Left-edge swipe navigation and iOS Home Screen top clearance."
+    "description": "Left-edge swipe navigation and iOS Home Screen top clearance.",
+    "detail": "README.md"
   }
 }

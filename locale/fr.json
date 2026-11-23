@@ -1,6 +1,7 @@
 {
   "meta": {
     "title": "Plan d’amélioration modulaire pour mobile",
-    "description": "Geste depuis le bord gauche et marge haute dans l’application d’écran d’accueil iOS."
+    "description": "Geste depuis le bord gauche et marge haute dans l’application d’écran d’accueil iOS.",
+    "detail": "README.fr.md"
   }
 }

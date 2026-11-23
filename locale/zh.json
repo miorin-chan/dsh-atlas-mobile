@@ -1,6 +1,7 @@
 {
   "meta": {
     "title": "移动端模块化改良计划",
-    "description": "左缘滑动返回和 iOS 主屏幕顶部留白。"
+    "description": "左缘滑动返回和 iOS 主屏幕顶部留白。",
+    "detail": "README.zh.md"
   }
 }
