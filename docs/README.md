@@ -1,5 +1,17 @@
 # 项目文档
 
+## 使用
+
+- [左缘滑动返回](../../dsh-swipe-back/README.md)。
+  在主屏幕应用或无浏览历史的标签页，从左缘右滑即可返回或打开会话抽屉。
+  抽屉打开时，向任一方向滑动都可关闭，普通标签页也适用。
+- [iOS 顶部留白](../../dsh-ios-top-clearance/README.zh.md)。
+  为 iOS 主屏幕应用的界面顶部留出空间。
+
+## 兼容条件
+
+需要 DeepSeek Harness `0.2.2-rc.3` 或更新版本的 Web 客户端。
+
 ## 安装
 
 通过 `dsh-mobile` 启动时，在 `web` profile 中安装。
@@ -33,6 +45,17 @@
 本次使用能成功导出的 `--dump-config` 核对加载配置。
 浏览器插件页的视觉和点击结果尚未验证。
 iPhone 上的系统返回手势和顶部模糊带仍需实机验证。
+
+## Usage
+
+- [Left-edge swipe](../../dsh-swipe-back/README.en.md) goes back or opens the session drawer
+  in a Home Screen app or a tab with no history.
+  Swipe either way to close an open drawer, including in a regular tab.
+- [iOS top clearance](../../dsh-ios-top-clearance/README.md) adds space above the interface in the iOS Home Screen app.
+
+## Compatibility
+
+Requires the Web client on DeepSeek Harness `0.2.2-rc.3` or later.
 
 ## Install
 
