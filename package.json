@@ -1,7 +1,6 @@
 {
   "name": "@miorin/dsh-atlas-mobile",
   "version": "0.1.0",
-  "private": true,
   "license": "MIT",
   "type": "module",
   "description": "A modular program for differentiable, continuous improvement of the mobile Web experience.",
@@ -53,7 +52,10 @@
     }
   },
   "dependencies": {
-    "@miorin/dsh-swipe-back": "link:../dsh-swipe-back",
-    "@miorin/dsh-ios-top-clearance": "link:../dsh-ios-top-clearance"
+    "@miorin/dsh-swipe-back": "0.1.0",
+    "@miorin/dsh-ios-top-clearance": "0.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

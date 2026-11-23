@@ -9,8 +9,24 @@ importers:
   .:
     dependencies:
       '@miorin/dsh-ios-top-clearance':
-        specifier: link:../dsh-ios-top-clearance
-        version: link:../dsh-ios-top-clearance
+        specifier: 0.1.0
+        version: 0.1.0
       '@miorin/dsh-swipe-back':
-        specifier: link:../dsh-swipe-back
-        version: link:../dsh-swipe-back
+        specifier: 0.1.0
+        version: 0.1.0
+
+packages:
+
+  '@miorin/dsh-ios-top-clearance@0.1.0':
+    resolution: {integrity: sha512-omP0DaKkR1v6Btq2SRvaL4BAqsYfVzgcLTFVc/u5FuZg1KvQtEX2ZijxmFfIgUjwoiz6GF7vfBULAbxa7AWq8Q==}
+    engines: {dsh: '>=0.2.2-rc.3'}
+
+  '@miorin/dsh-swipe-back@0.1.0':
+    resolution: {integrity: sha512-vLCqOZ/f/dXZ9ZrAAIQIQDQum0eaUydGkaAu8SXgvNTHkcPdt4c/w399A/UHWvuPrzuhgkeMiauC6H06afkZjg==}
+    engines: {dsh: '>=0.2.2-rc.3'}
+
+snapshots:
+
+  '@miorin/dsh-ios-top-clearance@0.1.0': {}
+
+  '@miorin/dsh-swipe-back@0.1.0': {}
