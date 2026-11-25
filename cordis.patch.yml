@@ -8,3 +8,6 @@
     # @miorin/dsh-ios-top-clearance
     - id: dsh-ios-top-clearance
       name: '@miorin/dsh-ios-top-clearance'
+    # @miorin/dsh-atlas-mobile (aggregate runtime)
+    - id: dsh-atlas-mobile
+      name: "@miorin/dsh-atlas-mobile"
