@@ -56,7 +56,11 @@
       "plugins": [
         "@miorin/dsh-swipe-back",
         "@miorin/dsh-ios-top-clearance"
-      ]
+      ],
+      "defaults": {
+        "@miorin/dsh-swipe-back": true,
+        "@miorin/dsh-ios-top-clearance": true
+      }
     },
     "client": {
       "platform": "web",

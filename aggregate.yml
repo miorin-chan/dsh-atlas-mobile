@@ -5,5 +5,7 @@ engines:
 plugins:
   - name: '@miorin/dsh-swipe-back'
     spec: 0.1.0
+    enabled: true
   - name: '@miorin/dsh-ios-top-clearance'
     spec: 0.1.0
+    enabled: true
