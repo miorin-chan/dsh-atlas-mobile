@@ -1,3 +1,6 @@
 # esbuild uses the platform binary from its optional dependencies.
 allowBuilds:
   "esbuild@0.28.2": false
+minimumReleaseAgeExclude:
+  - '@miorin/dsh-ios-top-clearance@0.1.1'
+  - '@miorin/dsh-swipe-back@0.1.1'

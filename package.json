@@ -74,8 +74,8 @@
     }
   },
   "dependencies": {
-    "@miorin/dsh-swipe-back": "0.1.0",
-    "@miorin/dsh-ios-top-clearance": "0.1.0"
+    "@miorin/dsh-swipe-back": "0.1.1",
+    "@miorin/dsh-ios-top-clearance": "0.1.1"
   },
   "publishConfig": {
     "access": "public"

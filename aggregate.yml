@@ -4,8 +4,8 @@ engines:
   dsh: '>=0.2.2-rc.3'
 plugins:
   - name: '@miorin/dsh-swipe-back'
-    spec: 0.1.0
+    spec: 0.1.1
     enabled: true
   - name: '@miorin/dsh-ios-top-clearance'
-    spec: 0.1.0
+    spec: 0.1.1
     enabled: true
