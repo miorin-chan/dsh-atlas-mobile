@@ -1,7 +1,11 @@
 name: '@miorin/dsh-atlas-mobile'
 version: 0.2.0
+private: false
+description: 'Left-edge swipe navigation and iOS Home Screen top clearance.'
+license: MIT
 engines:
-  dsh: '>=0.2.2-rc.3'
+  dsh: '>=0.2.2-rc.5'
+  node: '^22.18.0 || >=24.11.0'
 plugins:
   - name: '@miorin/dsh-swipe-back'
     spec: 0.1.1
