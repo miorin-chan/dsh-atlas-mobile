@@ -2,6 +2,6 @@
   "meta": {
     "title": "Modularer Verbesserungsplan für Mobilgeräte",
     "description": "Wischgeste vom linken Rand und oberer Abstand in der iOS-Home-Bildschirm-App.",
-    "detail": "README.de.md"
+    "detail": "docs/DETAIL.de.md"
   }
 }

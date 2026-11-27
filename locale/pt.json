@@ -2,6 +2,6 @@
   "meta": {
     "title": "Plano de melhoria modular para dispositivos móveis",
     "description": "Navegação pela borda esquerda e margem superior no app da Tela de Início do iOS.",
-    "detail": "README.pt.md"
+    "detail": "docs/DETAIL.pt.md"
   }
 }
