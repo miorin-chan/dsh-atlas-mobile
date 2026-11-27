@@ -4,3 +4,4 @@ allowBuilds:
 minimumReleaseAgeExclude:
   - '@miorin/dsh-ios-top-clearance@0.1.1'
   - '@miorin/dsh-swipe-back@0.1.1'
+  - '@miorin/dsh-aggregate@0.1.0'
